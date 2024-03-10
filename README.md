@@ -1,8 +1,8 @@
 # Projeto_Integrador_Grupo_04
 Projeto Integrador - Grupo 04
 
-<center>
-CENTRO UNIVERSITÁRIO SENAC
+<p align="'center">
+** CENTRO UNIVERSITÁRIO SENAC **
 
 Disciplina: Projeto Integrador III - Grupo 04
 
@@ -12,13 +12,13 @@ GABRIEL DE OLIVEIRA PINTO
 SIMONE YOKOMIZO DE LEMOS
 TAIS CRISTINA GEHLEN 
 
-DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
+** DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS **
 
 ​
 São Paulo
 2024
 
-</center>
+</p>
 
 DIAGRAMA DE CLASSES
 
