@@ -35,5 +35,5 @@ FORNECEDOR
 
 
 
-Link para o protótipo no [Figma]([URL_do_link](https://www.figma.com/file/0CFysDmAj76255XK00jl20/Projeto-Integrador?type=design&node-id=1-44&mode=design&t=yEDYbHYB4KH420pX-0)https://www.figma.com/file/0CFysDmAj76255XK00jl20/Projeto-Integrador?type=design&node-id=1-44&mode=design&t=yEDYbHYB4KH420pX-0)
+Link para o protótipo no [Figma](https://www.figma.com/file/0CFysDmAj76255XK00jl20/Projeto-Integrador?type=design&node-id=1-44&mode=design&t=yEDYbHYB4KH420pX-0)
 
